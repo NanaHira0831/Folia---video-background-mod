@@ -1,7 +1,3 @@
-# Folia-video-background
-把本地视频当作 Folia 播放页的背景循环播放；支持填充方式、压暗、模糊、播放速度、音量与随音乐暂停
-## 设置项
-
 # 视频背景 · Folia 模组
 
 用本地视频当 Folia 播放页的背景，循环播放。背景之上照常渲染歌词动画，切换歌词模式、换歌都不影响。
@@ -83,4 +79,3 @@ Folium 把模组当作**可信代码**，`permissions` 只是功能开关，不�
 
 文档：<https://github.com/chthollyphile/folia-major/blob/main/docs/folium/api.md>
 规范：<https://github.com/chthollyphile/folia-major/blob/main/mods/README.md>
-
