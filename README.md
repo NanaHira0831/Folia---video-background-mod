@@ -1,6 +1,7 @@
 # 视频背景 · Folia 模组
 
 用本地视频当 Folia 播放页的背景，循环播放。背景之上照常渲染歌词动画，切换歌词模式、换歌都不影响。
+<img width="1434" height="833" alt="preview" src="https://github.com/user-attachments/assets/7bcb6bf9-65bf-44fc-a4a9-9d690f302e36" />
 
 纯 client 模组，没有 `main` 入口，不执行任何 Node 代码。
 
