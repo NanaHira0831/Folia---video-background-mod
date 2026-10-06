@@ -1,4 +1,4 @@
-# Folia--MOD
+# Folia-video-background
 把本地视频当作 Folia 播放页的背景循环播放；支持填充方式、压暗、模糊、播放速度、音量与随音乐暂停
 ## 设置项
 
