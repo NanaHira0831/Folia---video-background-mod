@@ -1,9 +1,25 @@
 # 视频背景 · Folia 模组
-相当于把Folia的视频层设置做成播放器背景一个多的选项，并新增了一点没用的小功能，模糊、播放速度等等，详见下方设置项
+
 用本地视频当 Folia 播放页的背景，循环播放。背景之上照常渲染歌词动画，切换歌词模式、换歌都不影响。
-<img width="1434" height="833" alt="preview" src="https://github.com/user-attachments/assets/7bcb6bf9-65bf-44fc-a4a9-9d690f302e36" />
 
 纯 client 模组，没有 `main` 入口，不执行任何 Node 代码。
+
+## 授权 / License
+
+**Copyright (C) 2026 NaLuna** —— 本模组以 **GNU AGPL-3.0** 授权，许可证全文见 [LICENSE](LICENSE)。
+
+用一句话说，这份授权意味着：
+
+- 你可以自由使用、复制、修改、再分发，**甚至可以收费分发**；
+- 但必须保留版权声明与许可证，并**公开你修改后的源代码**；
+- 如果把它改造成网络服务给别人用，也必须向使用者提供源码；
+- 本模组按「现状」提供，不附带任何担保。
+
+许可证官方文本：<https://www.gnu.org/licenses/agpl-3.0.txt>（冲突时以 `LICENSE` 里的英文原文为准）。
+
+本模组只使用 Folia 公开的模组接口（`folium.ui.pickFile` / `folium.storage` 等），不含任何第三方代码。
+你导入的视频文件版权归其权利人所有；本模组只负责播放，不分发、不转码、不上传。
+Folia / Folium 属于其各自作者（Folia 本体同样是 AGPL-3.0）。
 
 ## 安装
 
